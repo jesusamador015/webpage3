@@ -1,41 +1,38 @@
 body {
-  background-color: #ffb366;
+  background-color: #fff3e6;
 }
 
 h1 {
-  color: #332200;
+  color: #cc6600;
   margin-left: 20px;
   font-family: "Times New Roman", Times, serif;
   text-shadow: 2px 2px;
 }
 
 h2 {
-  color: #1a3300;
+  color: #669900;
   margin-left: 20px;
   font-family: "Copperplate", Papyrus, fantasy;
-  text-shadow: 2px 2px;
 }
 
 h3 {
-  color: #001a33;
+  color: #0040ff;
   margin-left: 20px;
   font-family: "Courier New", monospace;
-  text-shadow: 2px 2px;
 }
 
 h4 {
-  color: #b30077;
+  color: #ff00aa;
   margin-left: 20px;
   font-family: "Brush Script MT", Lucida Handwriting, cursive;
-  text-shadow: 2px 2px;
 }
+
+p.double {border-style: double;}
 
 #musket {
   padding: 20px;
   border: 3px;
   background: #fff;
   width: 1000px;
-  border-style: double;
   border-color: #331a00;
-
 }
